@@ -1,0 +1,13 @@
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\bin\Debug\netcoreapp3.1\SayMyNameAgain.exe
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\bin\Debug\netcoreapp3.1\SayMyNameAgain.deps.json
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\bin\Debug\netcoreapp3.1\SayMyNameAgain.runtimeconfig.json
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\bin\Debug\netcoreapp3.1\SayMyNameAgain.runtimeconfig.dev.json
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\bin\Debug\netcoreapp3.1\SayMyNameAgain.dll
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\bin\Debug\netcoreapp3.1\SayMyNameAgain.pdb
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\obj\Debug\netcoreapp3.1\SayMyNameAgain.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\obj\Debug\netcoreapp3.1\SayMyNameAgain.AssemblyInfoInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\obj\Debug\netcoreapp3.1\SayMyNameAgain.AssemblyInfo.vb
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\obj\Debug\netcoreapp3.1\SayMyNameAgain.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\obj\Debug\netcoreapp3.1\SayMyNameAgain.dll
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\obj\Debug\netcoreapp3.1\SayMyNameAgain.pdb
+C:\Users\aftanom\Documents\GitHubRepos\SayMyNameAgain\SayMyNameAgain\VisualBasicCode\SayMyNameAgain\obj\Debug\netcoreapp3.1\SayMyNameAgain.genruntimeconfig.cache
