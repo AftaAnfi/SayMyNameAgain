@@ -1,5 +1,12 @@
 Option Strict On
 Option Explicit On
+
+'Aftanom Anfilofieff
+'RCET0265
+'Spring 2021
+'Say My Name
+'https://github.com/AftaAnfi/SayMyNameAgain.git
+
 Module SayMyNameAgain
 
     Dim readInputString As String
