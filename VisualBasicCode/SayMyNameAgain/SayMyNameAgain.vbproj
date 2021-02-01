@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>SayMyNameAgain</RootNamespace>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>SayMyNameAgain.SpecialFunc</StartupObject>
+    <StartupObject>SayMyNameAgain.SayMyNameAgain</StartupObject>
   </PropertyGroup>
 
 </Project>

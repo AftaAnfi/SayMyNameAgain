@@ -2,43 +2,44 @@ Option Strict On
 Option Explicit On
 Module SayMyNameAgain
 
+    Dim readInputString As String
+
     Sub Main()
+        Console.WriteLine("What is your name?")
 
-        Console.WriteLine("Hello, advanced calculator process is on hold until called.")
-        Console.ReadLine()
+        readInputString = Console.ReadLine()
 
-        Console.ReadLine()
+        Select Case readInputString
+            Case "Joe"
+                Console.WriteLine($"Hello {readInputString}!")
+
+            Case "Emily"
+
+                Console.WriteLine($"Hello {readInputString}!")
+            Case "Aftanom"
+                Console.WriteLine($"Awh yes, the programmer {readInputString} has arrived.")
+            Case Else
+                Console.WriteLine("Hello!")
+                Console.WriteLine("Have a good day!")
+
+        End Select
+
+        Console.WriteLine("Press any key to continue...")
+        Console.ReadKey(False)
+
+        'if it's joe or emily
+        'do this
+
+        'if not
+        'do this (not name)
 
 
-
-
-
-
-
-
-
-        'class notes
-
-        'Console.WriteLine("enter the first number")
-        'While problem = True And userInput <> "Q"
-        '    Try
-        '        userInput = Console.ReadLine()
-        '        firstNumber = CInt(userinput)
-        '        problem = False
-        '    Catch ex As Exception
-        '        Console.WriteLine($"I need a number, you entered {userInput}")
-        '        problem = True
-        '    End Try
-        'End While
-        'problem = True
-
-        'If problem = True Then
-        '    Console.Clear()
-        '    Console.WriteLine("")
-        'End If
 
 
 
     End Sub
+
+
+
 
 End Module
